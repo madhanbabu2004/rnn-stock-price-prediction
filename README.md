@@ -126,7 +126,7 @@ print("Mean Squared Error = ",mse)
 
 ### True Stock Price, Predicted Stock Price vs time
 
-![output](./a.png)
+![output](./2.png)
 
 ### Mean Square Error
 
